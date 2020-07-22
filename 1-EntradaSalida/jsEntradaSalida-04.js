@@ -7,10 +7,7 @@ function mostrar()
 	
 	var vDato;
 	vDato = prompt("Dato","Escribe un dato");
-document.getElementById("txtIdNombre").value = vDato
+	document.getElementById("txtIdNombre").value = vDato
 	
-	
-	
-	//alert("ok");
 }
 

@@ -9,10 +9,7 @@ function mostrar()
 	vNombre = document.getElementById("txtIdNombre").value;
 	vEdad = document.getElementById("txtIdEdad").value;
 
-alert(`Usted se llama ${vNombre} y tiene ${vEdad} años.`);
+	alert(`Usted se llama ${vNombre} y tiene ${vEdad} años.`);
 	
-	
-	
-	//alert("ok");
 }
 

@@ -15,6 +15,7 @@ function mostrar()
 
 	//Pisando una variable
 	vNombre = "sol";
+	
 	alert(vNombre);
 }
 

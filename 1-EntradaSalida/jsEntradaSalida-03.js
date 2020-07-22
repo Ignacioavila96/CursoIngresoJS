@@ -9,9 +9,6 @@ function mostrar()
 	
 	Alert(vNombre);
 
-	/*var nombreIngresado;
-	nombreIngresado=txtIdNombre.value;
-	alert("ok");*/
 
 }
 
