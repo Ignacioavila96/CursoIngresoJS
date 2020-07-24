@@ -5,22 +5,24 @@ function mostrar()
 
 	if (vEdad>=18) 
 		{
-			alert("Es mayor de edad")
-		}	
-		
-	if ((vEdad<18) && (vEdad>12)) 
-		{	
-		alert("Es adolescente")
+		alert("Es mayor de edad");
 		}
-	
-	if (vEdad<13)	
+			
+		else
 		{
-		alert("Es niño")
+			if ((vEdad<18) && (vEdad>=13)) 
+			{	
+			alert("Es adolescente");
+			}
+
+
+			else	
+			{
+			alert("Es niño");
+			}
 		}
-	
-	
-	
-	
+		
+		
 		//tomo la edad  
 	//alert("ok");
 
